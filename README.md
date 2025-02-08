@@ -1,3 +1,4 @@
+![sss](descricao-img.png)
 # Descrição
 - Essa plataforma foi um dos projetos realizados como método de avaliação do Programa de Monitoria Voluntária da Estácio.
 - A plataforma seria um componente que poderia ser integrado em qualquer outro projeto que fosse necessário um algoritmos de busca.
