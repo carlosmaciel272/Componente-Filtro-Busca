@@ -1,17 +1,13 @@
-![Cover](https://raw.githubusercontent.com/rocketseat-education/codando-um-filtro-de-busca/main/assets/cover.png)
+# Descrição
+- Essa plataforma foi um dos projetos realizados como método de avaliação do Programa de Monitoria Voluntária da Estácio.
+- A plataforma seria um componente que poderia ser integrado em qualquer outro projeto que fosse necessário um algoritmos de busca.
+- A interface foi construída em torno do front-end, utilizando as tecnologias básicas da web: HTML, CSS e Java Script. O objetivo doc projeto foi mostrar para os alunos que é possível fazer algo de alta complexidade utlizando ferramentas básicas de um desenvolvedor.
 
-# Codando com os instrutores um modal de filtro
+# Stacks Utilizadas
+- HTML5
+- CSS3
+- Java Script
 
-Faaala dev! Na live de 05/09 codamos juntos um componente de filtro de busca que pode ser customizável utilizando HTML, CSS e Javascript.
-
-O projeto foi iniciado ee stá pronto para evoluir em suas mãos! Que tal customizar e se divertir? Clone esse repositório e aproveite!
-
-Desafio da live: ao utilizar animações nos botões, quando o modal é fechado os elementos com animação demoram a desaparecer da tela. **Como você resolveria este problema? Poste sua solução na comunidade!**
-
-💡 [**Link do Figma do projeto para download**](https://uidesigndaily.com/posts/figma-filter-modal-day-1569)
-
-## Fontes utilizadas:
-
-[Google Merriwheater](https://fonts.google.com/specimen/Merriweather#styles)
-
-[Google Mulish](https://fonts.google.com/specimen/Mulish#styles)
+# Executando o Projeto
+1. Instale um servidor de desenvolvimento para web, se estiver usando o VsCode instale a extensão live-server
+2. Abra a pasta do projeto com o VsCode e com o arquivo HTML aberto execute o live-server.
